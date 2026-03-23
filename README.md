@@ -1,8 +1,7 @@
 # Hi, I'm Gayatri 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F70000&width=700&lines=🎓+A+Computer+Science+%40+SNJB+K.B.J.+College+of+Engineering+(2024–2028+expected);💻+Passionate+about+Android+%26+Web+Development;🔬+Exploring+AI+models,+Firebase,+and+cloud+integration;📈+Building+recruiter‑friendly+apps+with+clean+documentation" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F70000&width=500&lines=🎓+A+Computer+Science+%40+SNJB+K.B.J.+College+of+Engineering+(2024–2028+expected);💻+Passionate+about+Android+%26+Web+Development;🔬+Exploring+AI+models,+Firebase,+and+cloud+integration;📈+Building+recruiter‑friendly+apps+with+clean+documentation)](https://git.io/typing-svg)
+
 
 
 ---
