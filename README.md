@@ -1,26 +1,18 @@
 # Hi, I'm Gayatri 👋
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F70000&width=500&lines=A+Computer+Science+Student;Passionate+about+Android+App+Development;Frontend+Developer+with+Java+and+Python;Skilled+in+SQL%2C+Firebase%2C+and+AI+Models)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F70000&width=700&lines=🎓+A+Computer+Science+%40+SNJB+K.B.J.+College+of+Engineering+(2024–2028+expected);💻+Passionate+about+Android+%26+Web+Development;🔬+Exploring+AI+models,+Firebase,+and+cloud+integration;📈+Building+recruiter‑friendly+apps+with+clean+documentation" />
 </p>
 
----
-
-## 💡 About Me
-- 🎓 B.E. Computer Science @ SNJB K.B.J. College of Engineering (2024–2028 expected)  
-- 💻 Passionate about Android & Web Development  
-- 🔬 Exploring AI models, Firebase, and cloud integration  
-- 📈 Building recruiter‑friendly apps with clean documentation  
 
 ---
 
 ## 🛠 Skills
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -40,8 +32,8 @@
 
 ## 🎯 Achievements & Activities
 - 🏆 Eduskills Android Internship (Google for Developers)  
-- 🏆 Oracle Generative AI Certification  
-- 🏆 Google Playstore Listing  
+- 🏆 Oracle Generative AI Certification
+- 🏆 AI Green Certification (Edunet Foundation + AICTE + Shell, 2026)
 - ⚡ Hackathons: GenAI Career Guidance App (Gemini API), SEBC Finance Daily App  
 
 ---
