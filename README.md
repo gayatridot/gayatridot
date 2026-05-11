@@ -17,15 +17,16 @@
 
 ---
 
-## 📂 Featured Projects
-- **Study App** → Secure notes & quizzes with Firebase authentication  
-- **Music App** → Dark mode UI, playlists, smooth Kotlin experience  
+## 🚀 Projects Showcase
+
+- **Study App** → Secure notes & quizzes with Firebase authentication   
 - **Recipe App** → API integration with Retrofit, responsive design  
-- **Fuel Estimator** → Mileage calculator using Android intents  
-- **To‑Do List App** → Firebase + AI chatbot reminders  
-- **Tic‑Tac‑Toe Website** → HTML, CSS, JavaScript game logic  
-- **Amazon Clone** → Responsive frontend with HTML & CSS  
-- **Weather App** → API integration for real‑time weather data  
+- **To‑Do List App** → Firebase + AI chatbot reminders   
+- **AWS AI for Bharat Workshop** → Hands‑on with AWS Amplify & AI/ML services, building scalable cloud‑enabled applications  
+- **Human Emotions App (EmotionSense)** → Real‑time emotion scoring using Hugging Face models + ngrok mobile deployment  
+- **MatDaata – India’s First Hinglish Election Assistant** → AI‑powered civic education tool with Gemini API, gamified mock voting, and Google Calendar reminders  
+- **VenueShield AI Crisis Response (VSAI)** → Mobile‑first crowd safety platform with Gemini 1.5 Flash predictor, Firebase/Google Cloud integration, and real‑time heatmaps for stadium navigation  
+- **MyEnv Test Environment** → Lightweight Docker‑based environment for echo testing, Hugging Face Spaces deployment, and API usage demonstrations
 
 ---
 
