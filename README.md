@@ -1,6 +1,6 @@
 # Hi, I'm Gayatri 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=FF0000&width=1500&weight=7000&lines=🎓+A+Computer+Science+student+%40+SNJB+K.B.J.+College+of+Engineering+(2024–2028+expected);💻+Passionate+about+Android+%26+Web+Development;🔬+Exploring+AI+models,+Firebase,+and+cloud+integration;📈+Building+recruiter‑friendly+apps+with+clean+documentation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=FF0000&width=1500&size=24&lines=🎓+A+Computer+Science+student+%40+SNJB+K.B.J.+College+of+Engineering+(2024–2028+expected);💻+Passionate+about+Android+%26+Web+Development;🔬+Exploring+AI+models,+Firebase,+and+cloud+integration;📈+Building+recruiter‑friendly+apps+with+clean+documentation)](https://git.io/typing-svg)
 
 
 
