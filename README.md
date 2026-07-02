@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Projects Showcase
-
+- **Eco-Parv Website** → A Platform for Sustainable Living & Smart Donation Management.  
 - **Study App** → Secure notes & quizzes with Firebase authentication   
 - **Recipe App** → API integration with Retrofit, responsive design  
 - **To‑Do List App** → Firebase + AI chatbot reminders   
@@ -30,7 +30,8 @@
 ---
 
 ## 🎯 Achievements & Activities
-- 🏆 Eduskills Android Internship (Google for Developers)  
+- 🏆 Eduskills Android Internship (Google for Developers)
+- 🏆 Eduskills AI & ML Internship (Google for Developers)  
 - 🏆 Oracle Generative AI Certification
 - 🏆 AI Green Certification (Edunet Foundation + AICTE + Shell, 2026)
 - ⚡ Hackathons: GenAI Career Guidance App (Gemini API), SEBC Finance Daily App  
