@@ -29,12 +29,15 @@
 ---
 
 ## 🚀 Featured Full-Stack & AI Projects
-- **LexiGuard – AI Legal Assistant & Risk Analyzer** → Full-stack RAG legal document analyzer built with React.js, TypeScript, Tailwind CSS, and Gemini API for automated contract risk assessment and legal simplification.
-- **OptiHub3 – Browser-Based Media Toolkit** → Client-side audio/video compression and media processing suite powered by React and FFmpeg.wasm with zero server latency.
-- **EcoParv – Sustainability & Donation Platform** → Full-stack platform connecting NGOs and donors with role-based Firebase Authentication and real-time Firestore workflows.
-- **VenueShield AI Crisis Response (VSAI)** → Mobile-first crowd safety platform featuring Gemini 1.5 Flash predictive analytics, real-time heatmaps, and Google Cloud integration.
-- **MatDaata – Hinglish Civic & Election Assistant** → AI-powered voter education app built with Gemini API, gamified mock voting, and Google Calendar integration.
-- **Study App** → Android productivity suite featuring Firebase authentication, a study planner, smart notes, and interactive quizzes *(3rd Place – TechSprint GDG Hackathon)*.
+
+| **Project** | **Tech Stack** | **Impact & Highlights** | **Links** |
+| :--- | :--- | :--- | :--- |
+| **⚖️ LexiGuard** | `React` `TypeScript` `Tailwind` `Gemini API` `RAG` | AI legal document analyzer that flags contract risks and simplifies complex clauses in real time. | [Live Demo](https://legal-ai-assistant-and-access.vercel.app) • [Code](https://github.com/gayatridot/Legal-AI-assistant-and-access) |
+| **🎬 OptiHub3** | `React` `FFmpeg.wasm` `WebAssembly` | Browser-based audio/video compression & merging toolkit running 100% client-side with zero server latency. | [Live Demo](https://opti-hub3.vercel.app) • [Code](https://github.com/gayatridot/OptiHub3) |
+| **🌱 EcoParv** | `JavaScript` `Firebase Auth` `Firestore` | Full-stack sustainability platform connecting NGOs and donors with role-based donation tracking. | [Live Demo](https://eco-parv.vercel.app) • [Code](https://github.com/gayatridot/Eco-Parv) |
+| **🛡️ VenueShield AI** | `Gemini 1.5 Flash` `Firebase` `Google Cloud` | Mobile-first crowd safety platform featuring predictive congestion alerts and real-time stadium heatmaps. | [Live Demo](https://your-venueshield-link.vercel.app) • [Code](https://github.com/gayatridot/VenueShield-AI-Crisis-Response) |
+| **📚 StudyApp** | `Android` `Kotlin` `XML` `Firebase` | All-in-one student productivity app featuring a study planner, smart notes, and interactive quizzes *(3rd Place — TechSprint GDG Hackathon)*. | [APK / Demo](https://drive.google.com/file/d/1VkMVqXpv0riodtzRByZFA4hn9MD5dvag/view?usp=sharing) • [Code](https://github.com/gayatridot/StudyApp) |
+| **🎉 Celebration & Event Planner** | `React` `Tailwind CSS` `Gemini AI` | AI-powered event organization platform and multilingual invitation card generator built for PromptWars Challenge 5. | [Live Demo](https://celebration-event-planner-azure.vercel.app) • [Code](https://github.com/gayatridot/Celebration-Event-Planner) |.
 
 ---
 
@@ -48,7 +51,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="./github-metrics.svg" alt="Gayatri's GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/gayatridot/gayatridot/output/github-contribution-grid-snake-dark.svg" alt="Gayatri's GitHub Metrics" width="100%" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatridot&theme=react-dark" width="90%">
