@@ -48,8 +48,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gayatridot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gayatridot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="48%">
+  <img src="./github-metrics.svg" alt="Gayatri's GitHub Metrics" width="100%" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatridot&theme=react-dark" width="90%">
